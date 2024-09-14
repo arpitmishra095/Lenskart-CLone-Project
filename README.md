@@ -287,15 +287,18 @@
 # Our Team :
 
  <ul>
-<li>	      href="https://github.com/arpitmishra095">ArpitKumar Mishra (Team Lead)</a></li>
+	      <li><a href="https://github.com/AdityaKonda6">Aditya Konda (Team Lead)</a></li>
+        <li><a href="https://github.com/arpitmishra095">ArpitKumar Mishra (Team Lead)</a></li>
+        <li><a href="https://github.com/rashimall">Rashi Mall (Team Member)</a></li>
+        <li><a href="https://github.com/AnmolGupta880">Anmol Gupta (Team Member)</a> </li>
 
 </ul>
 
-### This is a collaborative project built by a Arpitkumar Mishra fullstack web developers and executed in 15 days.
+### This is a collaborative project built by a team of 4 fullstack web developers and executed in 15 days.
 
 <br/><br/>
 
-# Work Efforts :
+# Team Work Efforts :
 
 First of all, we created a Slack and zoom group to establish communication between all the team members. 
 Then we connected over zoom meet for further discussion about assigned project.
